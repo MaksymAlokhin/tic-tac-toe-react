@@ -6,5 +6,5 @@ In the project directory, you can run:<br />
 
 ### `npm start`
 Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.<br />
-![Game screen](tic-tac-toe.png)
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.\
+![Game screen](tic-tac-toe.png)\
